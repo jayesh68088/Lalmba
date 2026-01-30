@@ -1,0 +1,18 @@
+# Node/React
+node_modules/
+dist/
+build/
+
+# Env files
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Databases
+*.db
